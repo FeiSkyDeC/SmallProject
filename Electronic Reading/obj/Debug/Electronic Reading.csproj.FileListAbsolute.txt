@@ -1,0 +1,11 @@
+D:\Code\C#\Course_work\Project_all\Electronic Reading\bin\Debug\Electronic Reading.exe.config
+D:\Code\C#\Course_work\Project_all\Electronic Reading\bin\Debug\Electronic Reading.exe
+D:\Code\C#\Course_work\Project_all\Electronic Reading\bin\Debug\Electronic Reading.pdb
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic Reading.csproj.AssemblyReference.cache
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic_Reading.Form1.resources
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic_Reading.Properties.Resources.resources
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic Reading.csproj.GenerateResource.cache
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic Reading.csproj.CoreCompileInputs.cache
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic Reading.exe
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic Reading.pdb
+D:\Code\C#\Course_work\Project_all\Electronic Reading\obj\Debug\Electronic_Reading.frmAbout.resources

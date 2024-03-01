@@ -1,0 +1,11 @@
+D:\Code\C#\Course_work\Project_all\Notebook\bin\Debug\Notebook.exe.config
+D:\Code\C#\Course_work\Project_all\Notebook\bin\Debug\Notebook.exe
+D:\Code\C#\Course_work\Project_all\Notebook\bin\Debug\Notebook.pdb
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.csproj.AssemblyReference.cache
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.exe
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.pdb
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.formNotebook.resources
+D:\Code\C#\Course_work\Project_all\Notebook\obj\Debug\Notebook.frmAbout.resources

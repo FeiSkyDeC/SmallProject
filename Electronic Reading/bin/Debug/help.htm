@@ -1,0 +1,36 @@
+<html>
+<title>richTextBox富文本框帮助</title>
+<body>
+<p>richTextBox富文本框属性和方法</p>
+
+<p>using System.IO;  //导入读写文件命名空间</p>
+
+<p>⑴ 富文本框读文本<br>
+richTextBox1.LoadFile(string path, RichTextBoxStreamType.PlainText); //读txt格式文本<br>
+richTextBox1.LoadFile(string path, RichTextBoxStreamType.PlainText); //读rtf、doc格式文本</p>
+
+
+<p>⑵ 富文本框写文本<br>
+richTextBox1.SaveFile(saveFileDialog1.FileName, RichTextBoxStreamType.PlainText);  // 保存为txt格式文件<br>
+richTextBox1.SaveFile(saveFileDialog1.FileName,RichTextBoxStreamType.RichText);   // 保存为rtf、doc格式文件
+/p>
+
+<p>(3) 清除富文本框文本<br>
+richTextBox1.Clear();
+</p>
+
+<p>(4) 富文本文本操作<br>
+选中的文本：richTextBox1.SelectedText;<br>
+删除选中的文本：richTextBox1.SelectedText="";<br>
+复制选中的文本：string tmp=richTextBox1.SelectedText;
+/p>
+
+<p>(5) 打开外部文件<br>
+using System.Diagnostics;  //导入命名空间，打开外部文件操作<br>
+Process P = new Process();<br>
+P.StartInfo.FileName = Application.StartupPath + "\\help.htm";<br>
+P.StartInfo.Verb = "Open";<br>
+P.Start();
+</p>
+
+</body>
